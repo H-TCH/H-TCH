@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @H-TCH
-- 👀 I’m interested in creating code for microcontrollers
+- 👀 I’m interested in creating hardware/software for microcontrollers and learn how to develop my own products in the process
 - 🌱 I’m currently learning python and C
-- 💞️ I’m looking to collaborate on STM32, ESP32, Arduino projects
+- 💞️ I’m looking to collaborate on STM32, ESP32, Arduino projects.
 - 📫 How to reach me scottstewart.contact@gmail.com
 
 <!---
